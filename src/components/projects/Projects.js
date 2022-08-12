@@ -9,11 +9,20 @@ import 'swiper/css/pagination';
 import 'swiper/css/scrollbar';
 import IMG1 from '../../assests/words.jpg'  //here imprt project images
 import IMG2 from '../../assests/calc2.jpg'  
+import IMG3 from '../../assests/newsImage.jpg'  
 
 
 const data=[
   {
     id :1,
+    image:IMG3,
+    title:'Khabri Bhai',
+    description:'Khabri Bhai app is a news providing app which keeps us updated with the latest news around the world.This app uses ReactJs major functionalities and hooks to integrate our page with a external newsApi and fetch data from there.',
+    github:'https://github.com/devendra0009/KhabriBhai',  //for github link of project
+    demo:'https://github.com/devendra0009/KhabriBhai#readme'  //project link
+  },
+  {
+    id :2,
     image:IMG1,
     title:'Word Twin',
     description:'ReactJs made Word Twin app which fetches the synonym or related word of a inputted word.',
@@ -21,38 +30,13 @@ const data=[
     demo:'https://devendra0009.github.io/Word_Twin/'  //project link
   },
   {
-    id :1,
+    id :3,
     image:IMG2,
     title:'Calculator',
     description:'Made purely using ReactJS. With basic calculator functions. like addition ,multiplication. Used "useReduce" hook.',
     github:'https://github.com/devendra0009/Calculator',  //for github link of project
     demo:'https://devendra0009.github.io/Calculator/'  //project link
   },
-  // {
-  //   id :1,
-  //   image:IMG1,
-  //   title:'Word Twin',
-  //   description:'Hi',
-  //   github:'/',  //for github link of project
-  //   demo:'/'  //project link
-  // },
-  // {
-  //   id :1,
-  //   image:IMG1,
-  //   title:'Word Twin',
-  //   description:'Hi',
-  //   github:'/',  //for github link of project
-  //   demo:'/'  //project link
-  // },
-  // {
-  //   id :1,
-  //   image:IMG1,
-  //   title:'Word Twin',
-  //   description:'Hi',
-  //   github:'/',  //for github link of project
-  //   demo:'/'  //project link
-  // },
-
 ]
 
 const Projects = () => {
