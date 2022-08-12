@@ -5,7 +5,8 @@
 /.pnp
 .pnp.js
 
-assests/
+src/assests
+
 # testing
 /coverage
 
