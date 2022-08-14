@@ -5,7 +5,7 @@ import {FaLanguage,FaCode} from 'react-icons/fa'
 import {GiSkills } from 'react-icons/gi'
 import {CgGym } from 'react-icons/cg'
 import {MdSportsVolleyball} from 'react-icons/md'
-import ME from '../../assests/me.jpg'
+import ME from '../../assests/me2.jpeg'
 import '../about/About.css'
 
 const About = () => {
@@ -52,7 +52,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque earum nisi eaque nobis. Tenetur, doloribus! Sequi excepturi dolorum voluptatem ullam hic asperiores eum. Aliquid dignissimos inventore id laborum illum veniam.</p>
+          <p>I am a junior pursuing BTech from IT branch.I am a hardworking and passionate guy trying to grab latest skills and technologies. I like practical things more than theories. My Short term goal is to get placed in a reputed firm as a Software developer engineer in the next few years and have some new life experiences.</p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
 

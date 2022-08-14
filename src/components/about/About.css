@@ -30,7 +30,7 @@
 .about_card
 {
     background: var(--color-bg-variant);
-    width: 36rem;
+    /* width: rem; */
     /* height: 15rem; */
     border: 1px solid transparent;
     border-radius: 2rem;
