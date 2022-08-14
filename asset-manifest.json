@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/personal-site/static/css/main.6fc3b77c.css",
+    "main.js": "/personal-site/static/js/main.26cd7015.js",
+    "static/media/diary.jpg": "/personal-site/static/media/diary.890ea055149ffaa4f1c7.jpg",
+    "static/media/annie-spratt-0ZPSX_mQ3xI-unsplash.jpg": "/personal-site/static/media/annie-spratt-0ZPSX_mQ3xI-unsplash.b3c34d2548f9e30710c4.jpg",
+    "static/media/newsImage.jpg": "/personal-site/static/media/newsImage.90ee2966bce3b270ea17.jpg",
+    "static/media/todo.jpg": "/personal-site/static/media/todo.4567ffd6fca163807777.jpg",
+    "static/media/words.jpg": "/personal-site/static/media/words.225104e5e1ff861192aa.jpg",
+    "static/media/calc2.jpg": "/personal-site/static/media/calc2.8ae00db4584e1caff6cb.jpg",
+    "static/media/me.jpg": "/personal-site/static/media/me.c7e9973b639800e70a2a.jpg",
+    "static/media/cv.pdf": "/personal-site/static/media/cv.074c1f6bddeaefea3524.pdf",
+    "index.html": "/personal-site/index.html",
+    "main.6fc3b77c.css.map": "/personal-site/static/css/main.6fc3b77c.css.map",
+    "main.26cd7015.js.map": "/personal-site/static/js/main.26cd7015.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc3b77c.css",
+    "static/js/main.26cd7015.js"
+  ]
+}
