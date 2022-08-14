@@ -10,9 +10,19 @@ import 'swiper/css/scrollbar';
 import IMG1 from '../../assests/words.jpg'  //here imprt project images
 import IMG2 from '../../assests/calc2.jpg'  
 import IMG3 from '../../assests/newsImage.jpg'  
+import IMG4 from '../../assests/todo.jpg'  
+import IMG5 from '../../assests/diary.jpg'  
 
 
 const data=[
+  {
+    id :3,
+    image:IMG5,
+    title:'MyDiary App',
+    description:'This a myDiary app which has functionalities like todo App. Create,read,update and delete..All Functionalities are added using MERN. connected mongoddb to nodejs & express for backend used ReactJs for frontEnd.',
+    github:'https://github.com/devendra0009/myDiary',  //for github link of project
+    demo:'https://github.com/devendra0009/myDiary#readme'  //project link
+  },
   {
     id :1,
     image:IMG3,
@@ -30,7 +40,15 @@ const data=[
     demo:'https://devendra0009.github.io/Word_Twin/'  //project link
   },
   {
-    id :3,
+    id :4,
+    image:IMG4,
+    title:'TODO App',
+    description:'ReactJs based App to save ur todo list uses localStorage to save ur task...',
+    github:'https://github.com/devendra0009/taskSaver',  //for github link of project
+    demo:'https://devendra0009.github.io/taskSaver/'  //project link
+  },
+  {
+    id :5,
     image:IMG2,
     title:'Calculator',
     description:'Made purely using ReactJS. With basic calculator functions. like addition ,multiplication. Used "useReduce" hook.',
